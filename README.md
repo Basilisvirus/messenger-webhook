@@ -1,6 +1,7 @@
 # messenger-webhook
 
 Messenger bot that replies the same message you send to it.
+I used https://glitch.com as a server, and i followed the faceboook developer website instructions along with youtube videos on how to make a messenger bot using glitch.com
 
 [![h.png](https://i.postimg.cc/pd416Fvg/h.png)](https://postimg.cc/xkGRkqcR)
 
